@@ -1,0 +1,292 @@
+User,Folder Name,Permissions
+SYSTEM,AIMS,FullControl
+bench,AIMS,FullControl
+kmriosa,AIMS,"Modify, Synchronize"
+laguidote,AIMS,"Modify, Synchronize"
+sngranado,AIMS,FullControl
+qlik,AIMS,FullControl
+alvelasco,AIMS,"Modify, Synchronize"
+Administrators,AIMS,FullControl
+SYSTEM,Asset Plan Calendar,FullControl
+bench,Asset Plan Calendar,FullControl
+kmriosa,Asset Plan Calendar,"Modify, Synchronize"
+laguidote,Asset Plan Calendar,"Modify, Synchronize"
+sngranado,Asset Plan Calendar,FullControl
+qlik,Asset Plan Calendar,FullControl
+alvelasco,Asset Plan Calendar,"Modify, Synchronize"
+Administrators,Asset Plan Calendar,FullControl
+SYSTEM,B2B CPC Projects,FullControl
+bench,B2B CPC Projects,FullControl
+kmriosa,B2B CPC Projects,"Modify, Synchronize"
+laguidote,B2B CPC Projects,"Modify, Synchronize"
+sngranado,B2B CPC Projects,FullControl
+qlik,B2B CPC Projects,FullControl
+alvelasco,B2B CPC Projects,"Modify, Synchronize"
+Administrators,B2B CPC Projects,FullControl
+gamadlangbayan,CAPEX and OPEX,"ReadAndExecute, Synchronize"
+edmarasigan,CAPEX and OPEX,"ReadAndExecute, Synchronize"
+SYSTEM,CAPEX and OPEX,FullControl
+bench,CAPEX and OPEX,FullControl
+kmriosa,CAPEX and OPEX,"Modify, Synchronize"
+laguidote,CAPEX and OPEX,"Modify, Synchronize"
+sngranado,CAPEX and OPEX,FullControl
+qlik,CAPEX and OPEX,FullControl
+alvelasco,CAPEX and OPEX,"Modify, Synchronize"
+Administrators,CAPEX and OPEX,FullControl
+rmpongcol,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+edflorindo,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+rbestero,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+calucena,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+pdalera,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+gebautista,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+pctomboc,Coal Handling SCPC and SLPGC,FullControl
+fffajarillo,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+jgandal,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+cgbalani,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+blacuzar,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+kcbalagot,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+dvsanchez,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+bpmenor,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+vdlainez,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+jdlugatic,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+bpsinag,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+aaortazon,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+rmdeguzman,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+rlmatias,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+edmarasigan,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+jbvalencia,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+lcvillalobos,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+absalvallon,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+mplandicho,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+SYSTEM,Coal Handling SCPC and SLPGC,FullControl
+bench,Coal Handling SCPC and SLPGC,FullControl
+kmriosa,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+laguidote,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+sngranado,Coal Handling SCPC and SLPGC,FullControl
+qlik,Coal Handling SCPC and SLPGC,FullControl
+alvelasco,Coal Handling SCPC and SLPGC,"Modify, Synchronize"
+Administrators,Coal Handling SCPC and SLPGC,FullControl
+SYSTEM,Compliance Reminder,FullControl
+bench,Compliance Reminder,FullControl
+kmriosa,Compliance Reminder,"Modify, Synchronize"
+laguidote,Compliance Reminder,"Modify, Synchronize"
+sngranado,Compliance Reminder,FullControl
+qlik,Compliance Reminder,FullControl
+alvelasco,Compliance Reminder,"Modify, Synchronize"
+Administrators,Compliance Reminder,FullControl
+SYSTEM,Contractor DB,FullControl
+bench,Contractor DB,FullControl
+kmriosa,Contractor DB,"Modify, Synchronize"
+laguidote,Contractor DB,"Modify, Synchronize"
+sngranado,Contractor DB,FullControl
+qlik,Contractor DB,FullControl
+alvelasco,Contractor DB,"Modify, Synchronize"
+Administrators,Contractor DB,FullControl
+SYSTEM,CPAR,FullControl
+bench,CPAR,FullControl
+kmriosa,CPAR,"Modify, Synchronize"
+laguidote,CPAR,"Modify, Synchronize"
+sngranado,CPAR,FullControl
+qlik,CPAR,FullControl
+alvelasco,CPAR,"Modify, Synchronize"
+Administrators,CPAR,FullControl
+adraymundo,CPC Budget,"Modify, Synchronize"
+mhlagda,CPC Budget,"Modify, Synchronize"
+SYSTEM,CPC Budget,FullControl
+bench,CPC Budget,FullControl
+kmriosa,CPC Budget,"Modify, Synchronize"
+laguidote,CPC Budget,"Modify, Synchronize"
+sngranado,CPC Budget,FullControl
+qlik,CPC Budget,FullControl
+alvelasco,CPC Budget,"Modify, Synchronize"
+Administrators,CPC Budget,FullControl
+SYSTEM,CPC Common,FullControl
+bench,CPC Common,FullControl
+kmriosa,CPC Common,"Modify, Synchronize"
+laguidote,CPC Common,"Modify, Synchronize"
+sngranado,CPC Common,FullControl
+qlik,CPC Common,FullControl
+alvelasco,CPC Common,"Modify, Synchronize"
+Administrators,CPC Common,FullControl
+,CPC Plan and Performance Files,"Modify, Synchronize"
+Domain,CPC Plan and Performance Files,FullControl
+SYSTEM,CPC Plan and Performance Files,FullControl
+bench,CPC Plan and Performance Files,FullControl
+kmriosa,CPC Plan and Performance Files,"Modify, Synchronize"
+laguidote,CPC Plan and Performance Files,"Modify, Synchronize"
+sngranado,CPC Plan and Performance Files,FullControl
+qlik,CPC Plan and Performance Files,FullControl
+alvelasco,CPC Plan and Performance Files,"Modify, Synchronize"
+Administrators,CPC Plan and Performance Files,FullControl
+SYSTEM,CPC_QlikUser11,FullControl
+bench,CPC_QlikUser11,FullControl
+kmriosa,CPC_QlikUser11,"Modify, Synchronize"
+laguidote,CPC_QlikUser11,"Modify, Synchronize"
+sngranado,CPC_QlikUser11,FullControl
+qlik,CPC_QlikUser11,FullControl
+alvelasco,CPC_QlikUser11,"Modify, Synchronize"
+Administrators,CPC_QlikUser11,FullControl
+SYSTEM,DG_QlikUser02,FullControl
+bench,DG_QlikUser02,FullControl
+kmriosa,DG_QlikUser02,"Modify, Synchronize"
+laguidote,DG_QlikUser02,"Modify, Synchronize"
+sngranado,DG_QlikUser02,FullControl
+qlik,DG_QlikUser02,FullControl
+alvelasco,DG_QlikUser02,"Modify, Synchronize"
+Administrators,DG_QlikUser02,FullControl
+sngranado,Finance CPC,"Modify, Synchronize"
+mcgavarra,Finance CPC,"ReadAndExecute, Synchronize"
+jgolarte,Finance CPC,"Modify, Synchronize"
+,Finance CPC,"Modify, Synchronize"
+,Finance CPC,"Modify, Synchronize"
+drtordecilla,Finance CPC,"Modify, Synchronize"
+llserrano,Finance CPC,"Modify, Synchronize"
+mlpagara,Finance CPC,"ReadAndExecute, Synchronize"
+jvlopez,Finance CPC,"ReadAndExecute, Synchronize"
+rsmacalindong,Finance CPC,"Modify, Synchronize"
+mbmanaay,Finance CPC,"ReadAndExecute, Synchronize"
+mmalvarez,Finance CPC,"ReadAndExecute, Synchronize"
+SYSTEM,Finance CPC,FullControl
+bench,Finance CPC,FullControl
+kmriosa,Finance CPC,"Modify, Synchronize"
+laguidote,Finance CPC,"Modify, Synchronize"
+sngranado,Finance CPC,FullControl
+qlik,Finance CPC,FullControl
+alvelasco,Finance CPC,"Modify, Synchronize"
+Administrators,Finance CPC,FullControl
+SYSTEM,GS Dashboard,FullControl
+bench,GS Dashboard,FullControl
+kmriosa,GS Dashboard,"Modify, Synchronize"
+laguidote,GS Dashboard,"Modify, Synchronize"
+sngranado,GS Dashboard,FullControl
+qlik,GS Dashboard,FullControl
+alvelasco,GS Dashboard,"Modify, Synchronize"
+Administrators,GS Dashboard,FullControl
+sngranado,HR and L&D CPC,"Modify, Synchronize"
+apmedrano,HR and L&D CPC,"Modify, Synchronize"
+ftargente,HR and L&D CPC,"Modify, Synchronize"
+lrboac,HR and L&D CPC,"Modify, Synchronize"
+evaraya,HR and L&D CPC,"Modify, Synchronize"
+jpvillaverde,HR and L&D CPC,"Modify, Synchronize"
+SYSTEM,HR and L&D CPC,FullControl
+bench,HR and L&D CPC,FullControl
+kmriosa,HR and L&D CPC,"Modify, Synchronize"
+laguidote,HR and L&D CPC,"Modify, Synchronize"
+sngranado,HR and L&D CPC,FullControl
+qlik,HR and L&D CPC,FullControl
+alvelasco,HR and L&D CPC,"Modify, Synchronize"
+Administrators,HR and L&D CPC,FullControl
+SYSTEM,HR and L&D HO,FullControl
+bench,HR and L&D HO,FullControl
+kmriosa,HR and L&D HO,"Modify, Synchronize"
+laguidote,HR and L&D HO,"Modify, Synchronize"
+sngranado,HR and L&D HO,FullControl
+qlik,HR and L&D HO,FullControl
+alvelasco,HR and L&D HO,"Modify, Synchronize"
+Administrators,HR and L&D HO,FullControl
+SYSTEM,ICPC_QlikUser09,FullControl
+bench,ICPC_QlikUser09,FullControl
+kmriosa,ICPC_QlikUser09,"Modify, Synchronize"
+laguidote,ICPC_QlikUser09,"Modify, Synchronize"
+sngranado,ICPC_QlikUser09,FullControl
+qlik,ICPC_QlikUser09,FullControl
+alvelasco,ICPC_QlikUser09,"Modify, Synchronize"
+Administrators,ICPC_QlikUser09,FullControl
+SYSTEM,ICT Minesite,FullControl
+bench,ICT Minesite,FullControl
+kmriosa,ICT Minesite,"Modify, Synchronize"
+laguidote,ICT Minesite,"Modify, Synchronize"
+sngranado,ICT Minesite,FullControl
+qlik,ICT Minesite,FullControl
+alvelasco,ICT Minesite,"Modify, Synchronize"
+Administrators,ICT Minesite,FullControl
+edflorindo,Mainpac,"Modify, Synchronize"
+SYSTEM,Mainpac,FullControl
+bench,Mainpac,FullControl
+kmriosa,Mainpac,"Modify, Synchronize"
+laguidote,Mainpac,"Modify, Synchronize"
+sngranado,Mainpac,FullControl
+qlik,Mainpac,FullControl
+alvelasco,Mainpac,"Modify, Synchronize"
+Administrators,Mainpac,FullControl
+SYSTEM,Navision Tables,FullControl
+bench,Navision Tables,FullControl
+kmriosa,Navision Tables,"Modify, Synchronize"
+laguidote,Navision Tables,"Modify, Synchronize"
+sngranado,Navision Tables,FullControl
+qlik,Navision Tables,FullControl
+alvelasco,Navision Tables,"Modify, Synchronize"
+Administrators,Navision Tables,FullControl
+SYSTEM,New folder,FullControl
+bench,New folder,FullControl
+kmriosa,New folder,"Modify, Synchronize"
+laguidote,New folder,"Modify, Synchronize"
+sngranado,New folder,FullControl
+qlik,New folder,FullControl
+alvelasco,New folder,"Modify, Synchronize"
+Administrators,New folder,FullControl
+SYSTEM,Operation Log System,FullControl
+bench,Operation Log System,FullControl
+kmriosa,Operation Log System,"Modify, Synchronize"
+laguidote,Operation Log System,"Modify, Synchronize"
+sngranado,Operation Log System,FullControl
+qlik,Operation Log System,FullControl
+alvelasco,Operation Log System,"Modify, Synchronize"
+Administrators,Operation Log System,FullControl
+SYSTEM,Plant and Sales Performance,FullControl
+bench,Plant and Sales Performance,FullControl
+kmriosa,Plant and Sales Performance,"Modify, Synchronize"
+laguidote,Plant and Sales Performance,"Modify, Synchronize"
+sngranado,Plant and Sales Performance,FullControl
+qlik,Plant and Sales Performance,FullControl
+alvelasco,Plant and Sales Performance,"Modify, Synchronize"
+Administrators,Plant and Sales Performance,FullControl
+SYSTEM,PMS,FullControl
+bench,PMS,FullControl
+kmriosa,PMS,"Modify, Synchronize"
+laguidote,PMS,"Modify, Synchronize"
+sngranado,PMS,FullControl
+qlik,PMS,FullControl
+alvelasco,PMS,"Modify, Synchronize"
+Administrators,PMS,FullControl
+SYSTEM,Purchase to Pay Dashboard SMPC,FullControl
+bench,Purchase to Pay Dashboard SMPC,FullControl
+kmriosa,Purchase to Pay Dashboard SMPC,"Modify, Synchronize"
+laguidote,Purchase to Pay Dashboard SMPC,"Modify, Synchronize"
+sngranado,Purchase to Pay Dashboard SMPC,FullControl
+qlik,Purchase to Pay Dashboard SMPC,FullControl
+alvelasco,Purchase to Pay Dashboard SMPC,"Modify, Synchronize"
+Administrators,Purchase to Pay Dashboard SMPC,FullControl
+SYSTEM,Purchasing CPC,FullControl
+bench,Purchasing CPC,FullControl
+kmriosa,Purchasing CPC,"Modify, Synchronize"
+laguidote,Purchasing CPC,"Modify, Synchronize"
+sngranado,Purchasing CPC,FullControl
+qlik,Purchasing CPC,FullControl
+alvelasco,Purchasing CPC,"Modify, Synchronize"
+Administrators,Purchasing CPC,FullControl
+SYSTEM,Qliksense Training 2023,FullControl
+bench,Qliksense Training 2023,FullControl
+kmriosa,Qliksense Training 2023,"Modify, Synchronize"
+laguidote,Qliksense Training 2023,"Modify, Synchronize"
+sngranado,Qliksense Training 2023,FullControl
+qlik,Qliksense Training 2023,FullControl
+alvelasco,Qliksense Training 2023,"Modify, Synchronize"
+Administrators,Qliksense Training 2023,FullControl
+SYSTEM,Supply Chain Dashboard,FullControl
+bench,Supply Chain Dashboard,FullControl
+kmriosa,Supply Chain Dashboard,"Modify, Synchronize"
+laguidote,Supply Chain Dashboard,"Modify, Synchronize"
+sngranado,Supply Chain Dashboard,FullControl
+qlik,Supply Chain Dashboard,FullControl
+alvelasco,Supply Chain Dashboard,"Modify, Synchronize"
+Administrators,Supply Chain Dashboard,FullControl
+mccabanas,Warehouse Delivery System,"Modify, Synchronize"
+SYSTEM,Warehouse Delivery System,FullControl
+bench,Warehouse Delivery System,FullControl
+kmriosa,Warehouse Delivery System,"Modify, Synchronize"
+laguidote,Warehouse Delivery System,"Modify, Synchronize"
+sngranado,Warehouse Delivery System,FullControl
+qlik,Warehouse Delivery System,FullControl
+alvelasco,Warehouse Delivery System,"Modify, Synchronize"
+Administrators,Warehouse Delivery System,FullControl
