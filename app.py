@@ -80,7 +80,8 @@ else:
                 st.success(f'You have requested for the following: {", ".join(requests_list)}.')
 
         if name == 'laguidote':
-
+            
+            st.subheader('Download Requests')
             to_download = pd.DataFrame()
             ongoing_requests_list = os.listdir('requests')
             for filename in ongoing_requests_list:
