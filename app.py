@@ -78,3 +78,20 @@ else:
 
                 df_request.query('Access == True').to_csv(f'requests/{name}.csv', index=False)
                 st.success(f'You have requested for the following: {", ".join(requests_list)}.')
+
+        if name == 'laguidote':
+
+            to_download = pd.DataFrame()
+            ongoing_requests_list = os.listdir('requests')
+            for filename in ongoing_requests_list:
+                username = filename[::-1][4:][::-1]
+                file = pd.read_csv(f'requests/{filename}')
+                file['user'] = username
+
+                to_download = pd.concat([to_download, file], axis=1)
+
+            to_download.to_csv(index=False)
+            st.download_button('DOWNLOAD ALL REQUESTS',
+                               to_download.to_csv(index=False),
+                               'file.csv',
+                               'text/csv')
