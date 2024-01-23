@@ -18,8 +18,12 @@ st.title(':lock: Qlik QVD Permission Request')
 
 name = st.text_input('Place your employee name here to search your existing QlikFile folder permissions')
 
-if name not in valid_users:
-    st.error('You are not a valid requester at this. Please contact DSAI for further instructions [laguidote@semirarampc.com]', icon="🚨")
+if name not in valid_users and name == '':
+    pass
+    # st.info('Input your name in the box above') 
+
+elif name not in valid_users and name != '':
+    st.error('You are not a valid requester at this moment. Please contact DSAI for further instructions [laguidote@semirarampc.com]', icon="🚨")
 
 else:
     if name != '' and name in requesters:
@@ -68,7 +72,9 @@ else:
             hide_index=True
         )
 
-        if st.button(':green[SUBMIT REQUEST]'):
-            df_request.query('Access == True').to_csv(f'requests/{name}.csv', index=False)
-            requests_list = df_request.query('Access == True')['Folder Name'].values
-            st.success(f'You have requested for the following: {", ".join(requests_list)}.')
+        requests_list = df_request.query('Access == True')['Folder Name'].values
+        if len(requests_list) > 0:
+            if st.button(':green[SUBMIT REQUEST]'):
+
+                df_request.query('Access == True').to_csv(f'requests/{name}.csv', index=False)
+                st.success(f'You have requested for the following: {", ".join(requests_list)}.')
