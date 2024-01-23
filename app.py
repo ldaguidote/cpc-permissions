@@ -89,7 +89,7 @@ else:
                 file = pd.read_csv(f'requests/{filename}')
                 file['user'] = username
 
-                to_download = pd.concat([to_download, file], axis=1)
+                to_download = pd.concat([to_download, file], axis=0)
 
             to_download.to_csv(index=False)
             st.download_button('DOWNLOAD ALL REQUESTS',
