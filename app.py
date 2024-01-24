@@ -17,8 +17,8 @@ requesters = [i[::-1][4:][::-1] for i in os.listdir('requests')]
 st.title(':lock: Qlik QVD Permission Request')
 
 st.markdown('Input your username below to search your existing QlikFile folder permissions')
-name = st.text_input('TO get your username, remove the domain from your email address. '
-                     'For example, input `sngranado` if your email is sngranado@semirarampc.com.')
+name = st.text_input('To get your username, remove the domain from your email address. '
+                     'For example, input `sngranado` if your email is `sngranado@semirarampc.com`.')
 
 if name not in valid_users and name == '':
     pass
