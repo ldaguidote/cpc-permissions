@@ -118,6 +118,206 @@ sngranado,CPC Plan and Performance Files,FullControl
 qlik,CPC Plan and Performance Files,FullControl
 alvelasco,CPC Plan and Performance Files,"Modify, Synchronize"
 Administrators,CPC Plan and Performance Files,FullControl
+SYSTEM,CPC_QlikUser01,"Modify, Synchronize"
+Administrators,CPC_QlikUser01,FullControl
+sngranado,CPC_QlikUser01,FullControl
+qlik,CPC_QlikUser01,FullControl
+mddeguzman,CPC_QlikUser01,"Modify, Synchronize"
+alvelasco,CPC_QlikUser01,"Modify, Synchronize"
+bench,CPC_QlikUser01,FullControl
+mpcarpio,CPC_QlikUser01,"Modify, Synchronize"
+rctenorio,CPC_QlikUser01,"Modify, Synchronize"
+gcbayungan,CPC_QlikUser01,"Modify, Synchronize"
+agguevarra,CPC_QlikUser01,"Modify, Synchronize"
+jpbathan,CPC_QlikUser01,"Modify, Synchronize"
+fapineda,CPC_QlikUser01,"Modify, Synchronize"
+brnieves,CPC_QlikUser01,"Modify, Synchronize"
+gallam,CPC_QlikUser01,"Modify, Synchronize"
+emdelosreyes,CPC_QlikUser01,"Modify, Synchronize"
+mptumbaga,CPC_QlikUser01,"Modify, Synchronize"
+edmarasigan,CPC_QlikUser01,"Modify, Synchronize"
+jvencarnacion,CPC_QlikUser01,"Modify, Synchronize"
+SYSTEM,CPC_QlikUser02,FullControl
+Administrators,CPC_QlikUser02,FullControl
+sngranado,CPC_QlikUser02,FullControl
+qlik,CPC_QlikUser02,FullControl
+bench,CPC_QlikUser02,FullControl
+rbestero,CPC_QlikUser02,"Modify, Synchronize"
+edmabingnay,CPC_QlikUser02,"Modify, Synchronize"
+pdalera,CPC_QlikUser02,"Modify, Synchronize"
+sagarcia,CPC_QlikUser02,"Modify, Synchronize"
+dlorozco,CPC_QlikUser02,FullControl
+jgrivera,CPC_QlikUser02,"Modify, Synchronize"
+Vanuay,CPC_QlikUser02,"Modify, Synchronize"
+lsmirano,CPC_QlikUser02,"Modify, Synchronize"
+jnmarquinez,CPC_QlikUser02,"Modify, Synchronize"
+ampunzalan,CPC_QlikUser02,"Modify, Synchronize"
+jgandal,CPC_QlikUser02,"Modify, Synchronize"
+npgodoy,CPC_QlikUser02,"Modify, Synchronize"
+cgbalani,CPC_QlikUser02,"Modify, Synchronize"
+jcabuay,CPC_QlikUser02,"Modify, Synchronize"
+rgabenion,CPC_QlikUser02,"Modify, Synchronize"
+dvsanchez,CPC_QlikUser02,"Modify, Synchronize"
+symedillo,CPC_QlikUser02,"Modify, Synchronize"
+jcmirano,CPC_QlikUser02,"Modify, Synchronize"
+rmnaldoza,CPC_QlikUser02,"Modify, Synchronize"
+ammauleon,CPC_QlikUser02,"Modify, Synchronize"
+kmparagas,CPC_QlikUser02,"Modify, Synchronize"
+vdlainez,CPC_QlikUser02,"Modify, Synchronize"
+clsumanguid,CPC_QlikUser02,"Modify, Synchronize"
+jdmercado,CPC_QlikUser02,"Modify, Synchronize"
+rmdeguzman,CPC_QlikUser02,"Modify, Synchronize"
+jjaborido,CPC_QlikUser02,"Modify, Synchronize"
+acmayuga,CPC_QlikUser02,"Modify, Synchronize"
+kdcomia,CPC_QlikUser02,FullControl
+edmarasigan,CPC_QlikUser02,"Modify, Synchronize"
+kmriosa,CPC_QlikUser02,"Modify, Synchronize"
+csfajarillo,CPC_QlikUser02,"Modify, Synchronize"
+jbvalencia,CPC_QlikUser02,"Modify, Synchronize"
+jaortiz,CPC_QlikUser02,"Modify, Synchronize"
+napasquil,CPC_QlikUser02,"Modify, Synchronize"
+mplandicho,CPC_QlikUser02,"Modify, Synchronize"
+achutalla,CPC_QlikUser02,"Modify, Synchronize"
+lmmalabanan,CPC_QlikUser02,"Modify, Synchronize"
+SYSTEM,CPC_QlikUser03,"Modify, Synchronize"
+Administrators,CPC_QlikUser03,FullControl
+sngranado,CPC_QlikUser03,"Modify, Synchronize"
+qlik,CPC_QlikUser03,FullControl
+bench,CPC_QlikUser03,FullControl
+edflorindo,CPC_QlikUser03,"Modify, Synchronize"
+cgbala,CPC_QlikUser03,"Modify, Synchronize"
+fffajarillo,CPC_QlikUser03,"Modify, Synchronize"
+rcdemition,CPC_QlikUser03,"Modify, Synchronize"
+arpilit,CPC_QlikUser03,"Modify, Synchronize"
+mrdungca,CPC_QlikUser03,"Modify, Synchronize"
+blacuzar,CPC_QlikUser03,"Modify, Synchronize"
+jppermante,CPC_QlikUser03,"Modify, Synchronize"
+rrilao,CPC_QlikUser03,"Modify, Synchronize"
+acnotor,CPC_QlikUser03,"Modify, Synchronize"
+lepentinio,CPC_QlikUser03,"Modify, Synchronize"
+fagonzalvo,CPC_QlikUser03,"Modify, Synchronize"
+gparanez,CPC_QlikUser03,"Modify, Synchronize"
+jculep,CPC_QlikUser03,"Modify, Synchronize"
+bdgarcia-ascue,CPC_QlikUser03,"Modify, Synchronize"
+jlsupremo,CPC_QlikUser03,"Modify, Synchronize"
+rccastor,CPC_QlikUser03,"Modify, Synchronize"
+aaortazon,CPC_QlikUser03,"Modify, Synchronize"
+rpcarreon,CPC_QlikUser03,"Modify, Synchronize"
+rlmatias,CPC_QlikUser03,"Modify, Synchronize"
+ccmarasigan,CPC_QlikUser03,"Modify, Synchronize"
+rsmanlusoc,CPC_QlikUser03,"Modify, Synchronize"
+eomatira,CPC_QlikUser03,"Modify, Synchronize"
+aagarin,CPC_QlikUser03,"Modify, Synchronize"
+edmarasigan,CPC_QlikUser03,"Modify, Synchronize"
+kmriosa,CPC_QlikUser03,"Modify, Synchronize"
+jcbautista,CPC_QlikUser03,"Modify, Synchronize"
+lcvillalobos,CPC_QlikUser03,"Modify, Synchronize"
+absalvallon,CPC_QlikUser03,"Modify, Synchronize"
+gamateo,CPC_QlikUser03,"Modify, Synchronize"
+SYSTEM,CPC_QlikUser04,FullControl
+Administrators,CPC_QlikUser04,FullControl
+sngranado,CPC_QlikUser04,FullControl
+qlik,CPC_QlikUser04,FullControl
+alvelasco,CPC_QlikUser04,FullControl
+bench,CPC_QlikUser04,FullControl
+jcadove,CPC_QlikUser04,"Modify, Synchronize"
+rmmacalalad,CPC_QlikUser04,"Modify, Synchronize"
+bqsanpedro,CPC_QlikUser04,FullControl
+prvaldez,CPC_QlikUser04,"Modify, Synchronize"
+lgdepusoy,CPC_QlikUser04,"Modify, Synchronize"
+cdnoche,CPC_QlikUser04,"Modify, Synchronize"
+jbrefuerzo,CPC_QlikUser04,"Modify, Synchronize"
+rmmarbella,CPC_QlikUser04,"Modify, Synchronize"
+mhlumague,CPC_QlikUser04,"Modify, Synchronize"
+aemendoza,CPC_QlikUser04,"Modify, Synchronize"
+jmbautista,CPC_QlikUser04,"Modify, Synchronize"
+pnmarasigan,CPC_QlikUser04,"Modify, Synchronize"
+kbesguerra,CPC_QlikUser04,"Modify, Synchronize"
+dpreyes,CPC_QlikUser04,"Modify, Synchronize"
+hlbatoy,CPC_QlikUser04,"Modify, Synchronize"
+madechavez,CPC_QlikUser04,"Modify, Synchronize"
+badecastro,CPC_QlikUser04,"Modify, Synchronize"
+vrdeleon,CPC_QlikUser04,"Modify, Synchronize"
+edmarasigan,CPC_QlikUser04,"Modify, Synchronize"
+kmriosa,CPC_QlikUser04,"Modify, Synchronize"
+gccanovas,CPC_QlikUser04,"Modify, Synchronize"
+accasanova,CPC_QlikUser04,"Modify, Synchronize"
+fmdejesus,CPC_QlikUser04,"Modify, Synchronize"
+SYSTEM,CPC_QlikUser05,FullControl
+Administrators,CPC_QlikUser05,FullControl
+mtramos,CPC_QlikUser05,"Modify, Synchronize"
+sngranado,CPC_QlikUser05,FullControl
+qlik,CPC_QlikUser05,FullControl
+bgcamarao,CPC_QlikUser05,"ReadAndExecute, Synchronize"
+aframos,CPC_QlikUser05,"Modify, Synchronize"
+zsmirandilla,CPC_QlikUser05,"Modify, Synchronize"
+gdtiglao,CPC_QlikUser05,"Modify, Synchronize"
+mddeguzman,CPC_QlikUser05,"Modify, Synchronize"
+bench,CPC_QlikUser05,FullControl
+dcvergara,CPC_QlikUser05,"Modify, Synchronize"
+brnieves,CPC_QlikUser05,"Modify, Synchronize"
+nkmacatangay,CPC_QlikUser05,"Modify, Synchronize"
+aframos,CPC_QlikUser05,"Modify, Synchronize"
+edmarasigan,CPC_QlikUser05,"Modify, Synchronize"
+kmriosa,CPC_QlikUser05,"Modify, Synchronize"
+SYSTEM,CPC_QlikUser06,FullControl
+Administrators,CPC_QlikUser06,FullControl
+sngranado,CPC_QlikUser06,FullControl
+qlik,CPC_QlikUser06,FullControl
+bench,CPC_QlikUser06,FullControl
+jlbailon,CPC_QlikUser06,"Modify, Synchronize"
+cbbayaborda,CPC_QlikUser06,"Modify, Synchronize"
+fmnitro,CPC_QlikUser06,"Modify, Synchronize"
+mmencarnacion,CPC_QlikUser06,"Modify, Synchronize"
+edmarasigan,CPC_QlikUser06,"Modify, Synchronize"
+kmriosa,CPC_QlikUser06,"Modify, Synchronize"
+SYSTEM,CPC_QlikUser07,FullControl
+Administrators,CPC_QlikUser07,FullControl
+sngranado,CPC_QlikUser07,FullControl
+qlik,CPC_QlikUser07,FullControl
+bench,CPC_QlikUser07,FullControl
+ktcueto,CPC_QlikUser07,"Modify, Synchronize"
+vabulanhagui,CPC_QlikUser07,"Modify, Synchronize"
+armercado,CPC_QlikUser07,"Modify, Synchronize"
+edmarasigan,CPC_QlikUser07,"Modify, Synchronize"
+kmriosa,CPC_QlikUser07,"Modify, Synchronize"
+SYSTEM,CPC_QlikUser08,FullControl
+Administrators,CPC_QlikUser08,FullControl
+sngranado,CPC_QlikUser08,FullControl
+qlik,CPC_QlikUser08,FullControl
+bench,CPC_QlikUser08,FullControl
+dcvergara,CPC_QlikUser08,FullControl
+gbarroyo,CPC_QlikUser08,FullControl
+eccueto,CPC_QlikUser08,FullControl
+jrcalanog,CPC_QlikUser08,"Modify, Synchronize"
+racarandang,CPC_QlikUser08,"Modify, Synchronize"
+kbpanganiban,CPC_QlikUser08,"Modify, Synchronize"
+davelasco,CPC_QlikUser08,"Modify, Synchronize"
+jmmpanganiban,CPC_QlikUser08,"Modify, Synchronize"
+edmarasigan,CPC_QlikUser08,"Modify, Synchronize"
+kmriosa,CPC_QlikUser08,"Modify, Synchronize"
+artumbaga,CPC_QlikUser08,"Modify, Synchronize"
+rdmaravilles,CPC_QlikUser08,"Modify, Synchronize"
+SYSTEM,CPC_QlikUser09,"Modify, Synchronize"
+Administrators,CPC_QlikUser09,FullControl
+sngranado,CPC_QlikUser09,FullControl
+qlik,CPC_QlikUser09,FullControl
+jrmartinez,CPC_QlikUser09,"Modify, Synchronize"
+kmriosa,CPC_QlikUser09,"Modify, Synchronize"
+bench,CPC_QlikUser09,FullControl
+rpquiroz,CPC_QlikUser09,FullControl
+scdimaculangan,CPC_QlikUser09,"Modify, Synchronize"
+,CPC_QlikUser09,FullControl
+edmarasigan,CPC_QlikUser09,"Modify, Synchronize"
+kmriosa,CPC_QlikUser09,"Modify, Synchronize"
+jrmartinez,CPC_QlikUser09,"Modify, Synchronize"
+SYSTEM,CPC_QlikUser10,FullControl
+Administrators,CPC_QlikUser10,FullControl
+sngranado,CPC_QlikUser10,FullControl
+qlik,CPC_QlikUser10,FullControl
+bench,CPC_QlikUser10,FullControl
+edmarasigan,CPC_QlikUser10,"Modify, Synchronize"
+kmriosa,CPC_QlikUser10,"Modify, Synchronize"
 SYSTEM,CPC_QlikUser11,FullControl
 bench,CPC_QlikUser11,FullControl
 kmriosa,CPC_QlikUser11,"Modify, Synchronize"
@@ -200,6 +400,25 @@ sngranado,ICT Minesite,FullControl
 qlik,ICT Minesite,FullControl
 alvelasco,ICT Minesite,"Modify, Synchronize"
 Administrators,ICT Minesite,FullControl
+SYSTEM,iHospital,FullControl
+Administrators,iHospital,FullControl
+sngranado,iHospital,FullControl
+qlik,iHospital,FullControl
+bench,iHospital,FullControl
+kmriosa,iHospital,"Modify, Synchronize"
+SYSTEM,Incident Notification System,FullControl
+Administrators,Incident Notification System,FullControl
+sngranado,Incident Notification System,FullControl
+qlik,Incident Notification System,FullControl
+bench,Incident Notification System,FullControl
+kmriosa,Incident Notification System,"Modify, Synchronize"
+SYSTEM,Integrated Inventory System,FullControl
+Administrators,Integrated Inventory System,FullControl
+sngranado,Integrated Inventory System,FullControl
+qlik,Integrated Inventory System,FullControl
+jmpanganiban,Integrated Inventory System,"Modify, Synchronize"
+bench,Integrated Inventory System,FullControl
+kmriosa,Integrated Inventory System,"Modify, Synchronize"
 edflorindo,Mainpac,"Modify, Synchronize"
 SYSTEM,Mainpac,FullControl
 bench,Mainpac,FullControl
@@ -233,6 +452,64 @@ sngranado,Operation Log System,FullControl
 qlik,Operation Log System,FullControl
 alvelasco,Operation Log System,"Modify, Synchronize"
 Administrators,Operation Log System,FullControl
+SYSTEM,Operations & Performance Common,"Modify, Synchronize"
+Administrators,Operations & Performance Common,FullControl
+sngranado,Operations & Performance Common,"Modify, Synchronize"
+qlik,Operations & Performance Common,FullControl
+bench,Operations & Performance Common,FullControl
+jcadove,Operations & Performance Common,"Modify, Synchronize"
+rmmacalalad,Operations & Performance Common,"Modify, Synchronize"
+rbestero,Operations & Performance Common,"Modify, Synchronize"
+lgdepusoy,Operations & Performance Common,"Modify, Synchronize"
+cdnoche,Operations & Performance Common,"Modify, Synchronize"
+edmabingnay,Operations & Performance Common,"Modify, Synchronize"
+pdalera,Operations & Performance Common,"Modify, Synchronize"
+jbrefuerzo,Operations & Performance Common,"Modify, Synchronize"
+rmmarbella,Operations & Performance Common,"Modify, Synchronize"
+aemendoza,Operations & Performance Common,"Modify, Synchronize"
+sagarcia,Operations & Performance Common,"Modify, Synchronize"
+dlorozco,Operations & Performance Common,"Modify, Synchronize"
+jgrivera,Operations & Performance Common,"Modify, Synchronize"
+Vanuay,Operations & Performance Common,"Modify, Synchronize"
+lsmirano,Operations & Performance Common,"Modify, Synchronize"
+jnmarquinez,Operations & Performance Common,"Modify, Synchronize"
+ampunzalan,Operations & Performance Common,"Modify, Synchronize"
+jgandal,Operations & Performance Common,"Modify, Synchronize"
+npgodoy,Operations & Performance Common,"Modify, Synchronize"
+cgbalani,Operations & Performance Common,"Modify, Synchronize"
+jcabuay,Operations & Performance Common,"Modify, Synchronize"
+rgabenion,Operations & Performance Common,"Modify, Synchronize"
+jmbautista,Operations & Performance Common,"Modify, Synchronize"
+dvsanchez,Operations & Performance Common,"Modify, Synchronize"
+pnmarasigan,Operations & Performance Common,"Modify, Synchronize"
+kbesguerra,Operations & Performance Common,"Modify, Synchronize"
+symedillo,Operations & Performance Common,"Modify, Synchronize"
+jcmirano,Operations & Performance Common,"Modify, Synchronize"
+rmnaldoza,Operations & Performance Common,"Modify, Synchronize"
+ammauleon,Operations & Performance Common,"Modify, Synchronize"
+hlbatoy,Operations & Performance Common,"Modify, Synchronize"
+kmparagas,Operations & Performance Common,"Modify, Synchronize"
+vdlainez,Operations & Performance Common,"Modify, Synchronize"
+clsumanguid,Operations & Performance Common,"Modify, Synchronize"
+madechavez,Operations & Performance Common,"Modify, Synchronize"
+jdmercado,Operations & Performance Common,"Modify, Synchronize"
+rmdeguzman,Operations & Performance Common,"Modify, Synchronize"
+jjaborido,Operations & Performance Common,"Modify, Synchronize"
+acmayuga,Operations & Performance Common,"Modify, Synchronize"
+vrdeleon,Operations & Performance Common,"Modify, Synchronize"
+kdcomia,Operations & Performance Common,"Modify, Synchronize"
+kmriosa,Operations & Performance Common,"Modify, Synchronize"
+csfajarillo,Operations & Performance Common,"Modify, Synchronize"
+jbvalencia,Operations & Performance Common,"Modify, Synchronize"
+jaortiz,Operations & Performance Common,"Modify, Synchronize"
+napasquil,Operations & Performance Common,"Modify, Synchronize"
+mplandicho,Operations & Performance Common,"Modify, Synchronize"
+gccanovas,Operations & Performance Common,"Modify, Synchronize"
+htperez,Operations & Performance Common,FullControl
+accasanova,Operations & Performance Common,"Modify, Synchronize"
+achutalla,Operations & Performance Common,"Modify, Synchronize"
+lmmalabanan,Operations & Performance Common,"Modify, Synchronize"
+fmdejesus,Operations & Performance Common,"Modify, Synchronize"
 SYSTEM,Plant and Sales Performance,FullControl
 bench,Plant and Sales Performance,FullControl
 kmriosa,Plant and Sales Performance,"Modify, Synchronize"
@@ -249,6 +526,22 @@ sngranado,PMS,FullControl
 qlik,PMS,FullControl
 alvelasco,PMS,"Modify, Synchronize"
 Administrators,PMS,FullControl
+SYSTEM,PMSCPC,FullControl
+bench,PMSCPC,FullControl
+kmriosa,PMSCPC,"Modify, Synchronize"
+laguidote,PMSCPC,"Modify, Synchronize"
+sngranado,PMSCPC,FullControl
+qlik,PMSCPC,FullControl
+alvelasco,PMSCPC,"Modify, Synchronize"
+Administrators,PMSCPC,FullControl
+SYSTEM,PMSLPGC,FullControl
+bench,PMSLPGC,FullControl
+kmriosa,PMSLPGC,"Modify, Synchronize"
+laguidote,PMSLPGC,"Modify, Synchronize"
+sngranado,PMSLPGC,FullControl
+qlik,PMSLPGC,FullControl
+alvelasco,PMSLPGC,"Modify, Synchronize"
+Administrators,PMSLPGC,FullControl
 SYSTEM,Purchase to Pay Dashboard SMPC,FullControl
 bench,Purchase to Pay Dashboard SMPC,FullControl
 kmriosa,Purchase to Pay Dashboard SMPC,"Modify, Synchronize"
